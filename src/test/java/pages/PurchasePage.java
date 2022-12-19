@@ -5,7 +5,7 @@ import helper.Common;
 public class PurchasePage {
     private String thankYou = "//span[@class='base']";
     private String orderNumber = "//a[@class='order-number']";
-    private int delay = 2000;
+    private int delay = 3000;
 
     Common common = new Common();
 

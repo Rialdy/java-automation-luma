@@ -6,7 +6,7 @@ public class LoginPage {
     private String emailField = "//input[@name='login[username]']";
     private String passwordField = "//input[@name='login[password]']";
     private String signInButton = "//button[@class='action login primary']";
-    private int delay = 2000;
+    private int delay = 3000;
 
     Common common = new Common();
 

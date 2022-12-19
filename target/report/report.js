@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 13192454542,
+  "duration": 12569283625,
   "status": "passed"
 });
 formatter.background({
@@ -51,21 +51,21 @@ formatter.match({
   "location": "HomePageStep.userGoToLUMApage()"
 });
 formatter.result({
-  "duration": 10017880375,
+  "duration": 9967367083,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageStep.userVerifTheHomepage()"
 });
 formatter.result({
-  "duration": 3061430375,
+  "duration": 3227393041,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStep.userGoToLoginPage()"
 });
 formatter.result({
-  "duration": 4503106792,
+  "duration": 4745193542,
   "status": "passed"
 });
 formatter.match({
@@ -78,7 +78,7 @@ formatter.match({
   "location": "LoginPageStep.userInputEmail(String)"
 });
 formatter.result({
-  "duration": 2246306833,
+  "duration": 3281532875,
   "status": "passed"
 });
 formatter.match({
@@ -91,14 +91,14 @@ formatter.match({
   "location": "LoginPageStep.userInputPassword(String)"
 });
 formatter.result({
-  "duration": 2083143500,
+  "duration": 3084502000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStep.userClickSignButton()"
 });
 formatter.result({
-  "duration": 4638835250,
+  "duration": 5349056084,
   "status": "passed"
 });
 formatter.scenario({
@@ -264,207 +264,207 @@ formatter.match({
   "location": "PurchaseStep.goToMenMenu()"
 });
 formatter.result({
-  "duration": 3224107750,
+  "duration": 4064348542,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.goToJacketsMenu()"
 });
 formatter.result({
-  "duration": 2970067625,
+  "duration": 2887206625,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickProteusFitnessJackshirt()"
 });
 formatter.result({
-  "duration": 3229597125,
+  "duration": 3201574625,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.chooseSizeL()"
 });
 formatter.result({
-  "duration": 2223580708,
+  "duration": 2252521708,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.chooseColorBlue()"
 });
 formatter.result({
-  "duration": 2187044459,
+  "duration": 2182864416,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickAddToCartButton()"
 });
 formatter.result({
-  "duration": 2272155083,
+  "duration": 2271637584,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.goToMenMenu()"
 });
 formatter.result({
-  "duration": 3168561875,
+  "duration": 4205002917,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.goToPantsMenu()"
 });
 formatter.result({
-  "duration": 3674030625,
+  "duration": 3393747625,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickCronusYogaPant()"
 });
 formatter.result({
-  "duration": 2958453958,
+  "duration": 2898739125,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.chooseSize()"
 });
 formatter.result({
-  "duration": 2121021750,
+  "duration": 2138817041,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.chooseColorBlue()"
 });
 formatter.result({
-  "duration": 2161906083,
+  "duration": 2170205958,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickAddToCartButton()"
 });
 formatter.result({
-  "duration": 2185582750,
+  "duration": 2178666500,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickCartButton()"
 });
 formatter.result({
-  "duration": 5238799583,
+  "duration": 5183469708,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickViewAndEditCart()"
 });
 formatter.result({
-  "duration": 8007256458,
+  "duration": 8060373291,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifyItem()"
 });
 formatter.result({
-  "duration": 10128501292,
+  "duration": 10119653584,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifyThePrice()"
 });
 formatter.result({
-  "duration": 10152735209,
+  "duration": 10135334709,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickProceedToCheckout()"
 });
 formatter.result({
-  "duration": 6594063208,
+  "duration": 6773816042,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.checkTheOrderSummary()"
 });
 formatter.result({
-  "duration": 5115576666,
+  "duration": 5117471208,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifyTheItem()"
 });
 formatter.result({
-  "duration": 10099987416,
+  "duration": 10112220042,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifyShippingAddress()"
 });
 formatter.result({
-  "duration": 5071666500,
+  "duration": 5059554916,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.chooseShippingMethod()"
 });
 formatter.result({
-  "duration": 5147306917,
+  "duration": 5112716875,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickNextButton()"
 });
 formatter.result({
-  "duration": 5224136875,
+  "duration": 5205697625,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifyPaymentPage()"
 });
 formatter.result({
-  "duration": 2049955208,
+  "duration": 2475497875,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.clickPlaceOrder()"
 });
 formatter.result({
-  "duration": 2100528042,
+  "duration": 2089733500,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifySuccessPage()"
 });
 formatter.result({
-  "duration": 4089449916,
+  "duration": 6141312125,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.goToMyAccount()"
 });
 formatter.result({
-  "duration": 7912535333,
+  "duration": 11008391917,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.goToMyOrderMenu()"
 });
 formatter.result({
-  "duration": 4171591792,
+  "duration": 3859807334,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.goToLatestOrder()"
 });
 formatter.result({
-  "duration": 3294723375,
+  "duration": 3782346959,
   "status": "passed"
 });
 formatter.match({
   "location": "PurchaseStep.verifyTheOrderId()"
 });
 formatter.result({
-  "duration": 2055258250,
+  "duration": 2051209792,
   "status": "passed"
 });
 formatter.after({
-  "duration": 219242333,
+  "duration": 230014334,
   "status": "passed"
 });
 });

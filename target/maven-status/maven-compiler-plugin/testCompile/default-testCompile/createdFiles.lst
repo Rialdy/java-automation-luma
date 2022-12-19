@@ -1,4 +1,5 @@
 pages/CartPage.class
+pages/MyAccountPage.class
 pages/PaymentPage.class
 steps/LoginPageStep.class
 pages/HomePage.class
@@ -8,6 +9,7 @@ setups/Hook.class
 pages/CheckoutPage.class
 setups/ChromeSetup.class
 pages/ProductPage.class
+steps/PurchaseStep.class
 pages/ProductDetailPage.class
 pages/PurchasePage.class
 pages/LoginPage.class

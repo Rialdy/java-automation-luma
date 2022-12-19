@@ -40,3 +40,9 @@ Feature: Luma Testing Demo Purchase
          And User go to MyOrder menu
          And User go to latest Order
          Then User verify the orderId
+
+
+         
+
+        #  mvn surefire-report:report
+        #  mvn clean test -Dcucumber.options="--tags '@purchase'"
